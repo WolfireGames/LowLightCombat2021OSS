@@ -1,0 +1,1 @@
+F:\Development\UnrealEngine\Engine\Build\BatchFiles\RunUAT.bat BuildCookRun -project="e:\SVNDevelopment\unreal-low-light-combat\trunk\LowLightCombat.uproject" -build -cook -cookall -compressed -stage -noclient -server -serverplatform=Win64 -serverconfig=Development -pak -archive -archivedirectory="E:\SVNDevelopment\unreal-low-light-combat\trunk\Build"
